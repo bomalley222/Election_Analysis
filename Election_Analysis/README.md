@@ -8,7 +8,7 @@ This task is usually done in excel, but it is being requested that this task is 
 
 ## Election Audit Results:
 
-* **Total Votes:** 
+**Total Votes:** 
 * 369,711
 
 **County Votes:**
